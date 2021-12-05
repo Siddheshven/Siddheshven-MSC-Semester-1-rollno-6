@@ -1,1 +1,1 @@
-msc practicals
+all algorithm practicals
